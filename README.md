@@ -4,7 +4,6 @@ This is a basic Python script for the classic "Rock, Paper, Scissors" game, wher
 
 How it Works:
 
-
 Computer’s Choice: The computer randomly picks one of the three options: rock, paper, or scissors.
 User’s Choice: You enter your choice via an input prompt.
 Game Logic: The script compares your choice with the computer’s and decides who wins the round:
